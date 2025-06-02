@@ -1,3 +1,4 @@
 gradio
 ultralytics
 opencv-python
+torch
